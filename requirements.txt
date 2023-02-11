@@ -1,0 +1,2 @@
+mctools==1.2.0
+TikTokLive==4.5.2
