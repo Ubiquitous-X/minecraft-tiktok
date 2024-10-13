@@ -35,7 +35,7 @@ success = rcon.login('password') # Same password as in server.properties
 ### 3.
 Run the Minecraft server file with `java -jar server.jar`
 
-Run the TikTok script with `python tiktok.py`
+Run the TikTok script with `python tiktok.py username` (The TikTok username without the leading '@')
 
 Everything should now work as intended. 
 
