@@ -7,7 +7,7 @@ import sys
 if len(sys.argv) > 1:
     livestream = sys.argv[1]
 else:
-    # Om inget argument skickas, kasta ett fel och avsluta scriptet
+    # If no argument is sent, throw error and exit
     print("Error: No username sent. Start the script with 'python tiktokpy username' (without @)")
     sys.exit(1)  # Exit with error code 1
 
